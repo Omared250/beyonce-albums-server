@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Omared250/beyonce-albums-server/issues"
   },
-  "homepage": "https://github.com/Omared250/beyonce-albums-server#readme"
+  "homepage": "https://github.com/Omared250/beyonce-albums-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
